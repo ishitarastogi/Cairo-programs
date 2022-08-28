@@ -8,3 +8,10 @@ libs_path = "./lib"
 main = [
     "./src/main.cairo",
 ]
+
+
+["protostar.build"]
+cairo-path = ["./lib/cairo_contracts/src"]
+
+["protostar.shared_command_configs"]
+cairo-path = ["./lib/cairo_contracts/src"]
