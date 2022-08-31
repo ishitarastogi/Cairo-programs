@@ -60,3 +60,12 @@ protostar deploy ./build/main.json --inputs 123 200 --network alpha-goerli
 - The scope of some types of references in Cairo (e.g., return values of functions and temporary variables) is somewhat restricted.
 
 - a call to another function may revoke those references.
+
+to be continued....
+
+5. <a href="https://github.com/ishitarastogi/Cairo-programs/blob/main/cairo-exercise/src/array.cairo">Array Program </a></br>
+
+In this program we will learn,</br>
+**alloc** : alloc is function that help us allocate a block of memory to store our values.
+
+To store a value you will alloc and alloc will give you a address which is free.
