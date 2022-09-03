@@ -1,3 +1,4 @@
+# https://ishitarastogi.medium.com/arrays-in-cairo-d9b8fcfc9ad1
 from starkware.cairo.common.alloc import alloc
 
 func contains(array_len : felt, array : felt*, needle : felt) -> (result : felt):
