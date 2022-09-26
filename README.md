@@ -68,4 +68,6 @@ to be continued....
 In this program we will learn,</br>
 **alloc** : alloc is function that help us allocate a block of memory to store our values.
 
+<a href="https://medium.com/@ishitarastogi/arrays-in-cairo-d9b8fcfc9ad1">Medium Link</a>
+
 To store a value you will alloc and alloc will give you a address which is free.
